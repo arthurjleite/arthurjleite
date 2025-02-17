@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<imagem>
+ <source media="(prefere-esquema-de-cores: escuro)" srcset="SUA-IMAGEM-DO-MODO-ESCURO">
+ <source media="(prefere-esquema-de-cores: light)" srcset="SUA-IMAGEM-DO-MODO-DE-LUZ">
+ <img alt="SEU-TEXTO-ALTERNADO" src="SUA-IMAGEM-PADRÃO">
+</imagem>
+
+
