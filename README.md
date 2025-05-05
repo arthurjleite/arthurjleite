@@ -14,4 +14,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjleite&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
